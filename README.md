@@ -38,7 +38,7 @@ Both Teams and Zoom required slight tweaking to the keypresses and delay times b
 
 The Teams webapp apparently has *no* hotkey for toggling video, so this will not work there, unfortunately.
 
-
+If you enjoyed this project and find it useful, please feel free to [buy me a coffee](https://ko-fi.com/grajohnt)! Improvements are absolutely welcome as well, of course.
 
 
 
