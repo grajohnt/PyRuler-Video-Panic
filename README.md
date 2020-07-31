@@ -12,7 +12,7 @@ So, doing this with multiple systems would require multiple buttons. As it turns
 
 So, with some small modifications to the included code and a 3D-printing enclosure for the ruler, I give you the PyRuler Video Conference Panic Button(s)!
 
-![PyRuler_Panic](C:\Users\John\git\PyRuler_VC_Toggle\PyRuler_Panic.jpg)
+![PyRuler_Panic](PyRuler_Panic.jpg)
 
 ## Installation
 
