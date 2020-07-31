@@ -12,7 +12,7 @@ So, doing this with multiple systems would require multiple buttons. As it turns
 
 So, with some small modifications to the included code and a 3D-printing enclosure for the ruler, I give you the PyRuler Video Conference Panic Button(s)!
 
-![PyRuler_Panic](C:\Users\John\git\PyRuler_VC_Toggle\PyRuler_Panic.jpg)
+![PyRuler_Panic](PyRuler_Panic.jpg)
 
 ## Installation
 
@@ -25,6 +25,8 @@ The enclosure is printed in two parts to make it easy to remove supports from th
 * PyRuler_Base.stl is the base of the enclosure. For added text contrast, it can be printed in one color up to a height of 2.2mm, and a different one for the rest of the print.
 * PyRuler_Base_Blank.stl is available in case you'd like to make your own labels, switch the order of the buttons, change which apps are used, etc.
 * PyRuler_Cover.stl is what holds the ruler down. It's designed to printed with support and then glued to the groove in the PyRuler_Base. A small amount of cyanoacrylate glue (superglue) works great. Press it all the way to the left and make sure the sides are as wide as possible to ensure that the PyRuler fits well.
+
+Once the parts are assembled, the PyRuler can simply be slid into the groove in the enclosure!
 
 ## Usage
 
