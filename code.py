@@ -87,7 +87,7 @@ while True:
             kbd.release_all()
     if caps[3]:
         if ENABLE_KEYBOARD:
-            #Jitsi
+            # Jitsi
             kbd.press(Keycode.M)
             kbd.release(Keycode.M)
             time.sleep(0.5)

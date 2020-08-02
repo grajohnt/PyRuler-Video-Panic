@@ -20,13 +20,25 @@ If you have a completely stock PyRuler, installation couldn't be simpler. Just c
 
 ## Making the Enclosure
 
-The enclosure is printed in two parts to make it easy to remove supports from the overhanging groove for the PyRuler.
+The enclosure is printed in two parts to make it easy to remove supports from the overhanging groove for the PyRuler. These can be easily glued together with cyanoacrylate glue (superglue)
+
+![PyRuler_enclosure_parts](PyRuler_enclosure_parts.jpg)
 
 * PyRuler_Base.stl is the base of the enclosure. For added text contrast, it can be printed in one color up to a height of 2.2mm, and a different one for the rest of the print.
 * PyRuler_Base_Blank.stl is available in case you'd like to make your own labels, switch the order of the buttons, change which apps are used, etc.
-* PyRuler_Cover.stl is what holds the ruler down. It's designed to printed with support and then glued to the groove in the PyRuler_Base. A small amount of cyanoacrylate glue (superglue) works great. Press it all the way to the left and make sure the sides are as wide as possible to ensure that the PyRuler fits well.
+* PyRuler_Cover.stl is what holds the ruler down. It's designed to printed with support and then glued to the groove in the PyRuler_Base. Be sure to remove the support material completely, or the ruler will not fit well.
 
-Once the parts are assembled, the PyRuler can simply be slid into the groove in the enclosure!
+![PyRuler_enclosure_glue](PyRuler_enclosure_glue.jpg)
+
+Apply a thin bead of glue to the groove in the base - a little goes a long way!
+
+![PyRuler_enclosure_press](PyRuler_enclosure_press.jpg)
+
+Press the cover piece firmly into place, and apply pressure to the right side while also holding the ends open on the left side. This will ensure that there is enough clearance for the ruler to slide freely into the enlosure.
+
+![PyRuler_enclosure_slide](PyRuler_enclosure_slide.jpg)
+
+Once the parts are assembled, the PyRuler can simply be slid into the groove in the enclosure.
 
 ## Usage
 
@@ -34,11 +46,11 @@ Simply press the button corresponding to the app you're using, and both the micr
 
 ## Additional Notes
 
-Both Teams and Zoom required slight tweaking to the keypresses and delay times between them. Jitsi and Skype have not been thoroughly tested yet, so they may require some tweaking.
+Both Teams and Skype required slight tweaking to the keypresses and delay times between them. 
 
 The Teams webapp apparently has *no* hotkey for toggling video, so this will not work there, unfortunately.
 
-If you enjoyed this project and find it useful, please feel free to [buy me a coffee](https://ko-fi.com/grajohnt)! Improvements are absolutely welcome as well, of course.
+
 
 
 
